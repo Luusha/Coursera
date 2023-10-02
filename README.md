@@ -1,2 +1,2 @@
 # Mine
-This is my official web
+This is my repository
