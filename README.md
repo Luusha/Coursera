@@ -1,2 +1,2 @@
-# Coursera 
+# Mine 
 This is my repository
